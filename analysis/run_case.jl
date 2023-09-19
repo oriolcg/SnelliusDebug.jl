@@ -1,0 +1,2 @@
+using SnelliusDebug
+SnelliusDebug.greet()
